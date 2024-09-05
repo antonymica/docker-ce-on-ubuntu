@@ -68,8 +68,12 @@ sudo usermod -aG docker username
 
 ### 8. Démarrer et activer Docker
 ```bash
+# Démarrer le service Docker
 sudo systemctl start docker
+
+# Activer le service Docker pour qu'il démarre automatiquement au démarrage du système
 sudo systemctl enable docker
+
 ```
 
 ### 9. Tester Docker
