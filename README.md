@@ -6,83 +6,83 @@
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
 
 
 Comment...
 
-'''bash
+"""bash
 sudo apt update
-'''
+"""
